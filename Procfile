@@ -1,1 +1,0 @@
-web: gunicocrn jport.wsgi --log-file -
